@@ -1,0 +1,5 @@
+2026-10-28 20:48:30,928 - src.utils - DEBUG - JSON-файл успешно прочитан: test.json
+2026-10-28 20:48:30,929 - src.utils - ERROR - Не удалось прочитать JSON-файл missing.json: 
+2026-10-28 20:48:30,931 - src.utils - ERROR - Не удалось прочитать JSON-файл invalid.json: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+2026-10-28 20:48:30,934 - src.utils - ERROR - JSON-файл содержит данные неподходящего формата: wrong_format.json
+2026-10-28 20:48:30,937 - src.utils - DEBUG - JSON-файл успешно прочитан: test.json
