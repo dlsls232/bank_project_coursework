@@ -26,6 +26,7 @@ lint = [
 dev = [
     "pytest (>=9.1.1,<10.0.0)",
     "pytest-cov (>=7.1.0,<8.0.0)",
+    "pandas-stubs (>=3.1.0.261029,<4.0.0.0)",
 ]
 
 [tool.black]
@@ -43,3 +44,5 @@ strict = true
 [tool.pytest.ini_options]
 pythonpath = ["."]
 testpaths = ["tests"]
+
+"pandas-stubs (>=3.1.0.261029,<4.0.0.0)",
